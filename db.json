@@ -2,10 +2,10 @@
   "games": [
     {
       "id": 1,
-      "version": "",
-      "description": "",
-      "title": "",
-      "overview": "",
+      "version": "n/a",
+      "description": "n/a",
+      "title": "n/a",
+      "overview": "n/a",
       "icon_path": "",
       "url_path": ""
     }
