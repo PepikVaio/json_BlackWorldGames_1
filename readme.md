@@ -3,7 +3,7 @@
 
 
 ## Link
-http://my-json-server.typicode.com/pepikvaio/json_blackworldgames/db
+http://my-json-server.typicode.com/pepikvaio/json_blackworldgames_1/db
 
 
 ## for info
